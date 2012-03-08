@@ -43,8 +43,8 @@ img {
 */
 }
 
-/*.wrapper { min-width: 762px; width: 762px; margin: 0 auto; }*/
-*.wrapper {}
+.wrapper { min-width: 762px; width: 762px; margin: 0 auto; }
+
 
 
 #navigation { width: 100%; float: left;
