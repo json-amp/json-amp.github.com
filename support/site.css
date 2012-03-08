@@ -43,7 +43,7 @@ img {
 */
 }
 
-.wrapper { min-width: 762px; width: 762px; margin: 0 auto; }
+.wrapper { min-width: 1000px; width: 1000px; margin: 0 auto; }
 
 #navigation { width: 100%; float: left;
     font-family: Helvetica,Verdana,Arial,sans-serif; 
